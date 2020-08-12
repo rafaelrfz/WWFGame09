@@ -1,0 +1,16 @@
+{
+"companyName": "DefaultCompany",
+"productName": "WWF",
+"productVersion": "0.1",
+"dataUrl": "Game09.data.unityweb",
+"wasmCodeUrl": "Game09.wasm.code.unityweb",
+"wasmFrameworkUrl": "Game09.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Light",
+"backgroundColor": "#FFFFFF",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.3.12f1"
+}
